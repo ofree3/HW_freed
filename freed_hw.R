@@ -9,3 +9,7 @@ mean_value <- mean(random_numbers)
 #Task 5
 
 sd_value <- sd(random_numbers)
+
+#Task 6
+
+print(paste0("The mean is ", mean_value, " and the SD is ", sd_value, "."))
